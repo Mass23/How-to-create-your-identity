@@ -45,11 +45,11 @@ The "raw-identity" artwork represents the cultural and environmental influence o
 
 #### 4.X Stick to it
 
-## 5. Technical description
+## 5. Technical description
 
-#### 5.0 raw-identity
+#### 5.0 raw-identity
 
-#### 5.1 geo-identity
+#### 5.1 geo-identity
 Triptych of images created using python’s matplotlib plotting library. Starting images were created using screenshots of google maps (maps.google.ch/) near Neuchâtel (Switzerland), Lausanne (Switzerland) and the gulf of Naples (Italy). The PIL python library was used to import, manipulate, and extract the images data. Briefly, images were loaded and reduced to a 400 x 400 pixels size and converted to black and white using the convert(‘L’) function. Subsequently, the pixels row averages values were subtracted to the pixel values to get a value representing the deviation from the row mean. The data was plotted as lines, representing the pixel rows, with the x values on the x axis and deviations from the mean on the y axis. Hence, the final image shows a more twisted result in the pixels where brightness is different than the rows average. The code used to produce these images is available on github: https://github.com/Mass23/fig1a_2022/.
 
-#### 5.1 geo-identity
+#### 5.1 geo-identity
