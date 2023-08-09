@@ -4,7 +4,7 @@
 
 ## 1. Installation
 
-## 2. Database creation
+## 2. Database creation
 
 #### 2.0 Archives
 
