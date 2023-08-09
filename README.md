@@ -14,7 +14,7 @@
 
 #### 2.3 How you want to be remembered
 
-## 3. Creation
+## 3. Creation
 
 #### 3.0 Prepare the recording
 
