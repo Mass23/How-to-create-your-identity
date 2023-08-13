@@ -3,9 +3,8 @@
 ## 0. Introduction
 
 ### 0.0 General introduction: deconstructing identity
-- How is our own identity created? 
 - How does cultural, environmental and hereditary influences shape our identity?
-- How can one build its own identity?
+- How can one shape its own identity?
 
 This installation
 Open access: DIY
