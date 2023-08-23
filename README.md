@@ -10,12 +10,7 @@ This installation
 Open access: DIY
 The visual identity of the installation...
 
-### 0.1 raw-identity: environmental influences
-The "raw-identity" artwork represents the cultural and environmental influence on our identity.
-
  The three locations depicted represent important geographic places that contributed to shape the artist’s identity. The first image on the left depicts an aerial view of Neuchâtel (Switzerland), his hometown. The second one, Lausanne (Switzerland), is the town he currently lives in. And the third one on the right is Naples (Italy) where his mother’s family comes from. By dissecting the construction of his own Identity, the artist also denotes that any identity represents an arbitrary construct. In this sense, this artwork also questions the link between maps and the physical reality. It invites us to reflect on the difference between representation and identity, the model and the referent. “A map is not the territory it represents, but, if correct, it has similar structures to the territory” (1931, Korzybski).
-
-### 0.2 post-identity: reconstructing identity
 
 ## 1. Installation
 
